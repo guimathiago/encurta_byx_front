@@ -134,10 +134,8 @@ export const UrlList = () => {
     <Container>
       <Title>Listagem de URLs Encurtadas</Title>
       <Description>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
-        eligendi a autem reiciendis temporibus ad ab laborum architecto
-        delectus. Laboriosam illum consequatur voluptate odit totam tempore,
-        suscipit labore accusantium quasi.
+        Aqui você poderá visualizar o histórico de cada acesso feito para aquela
+        URL encurtada, assim como os dados vinculados na sua criação.
       </Description>
       <Form onFinish={() => fetchUrls()}>
         <Row gutter={[15, 10]}>
