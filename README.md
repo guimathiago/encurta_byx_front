@@ -1,5 +1,8 @@
 ## Encurta Byx - Front-End
 
+![image](https://github.com/guimathiago/encurta_byx_front/assets/82674314/c0cd500e-a18e-49ef-ae9f-3f151f33e2a5)
+
+
 Este é o front-end do projeto de encurtador de URL implementado em React. O objetivo é ser um painel para visualização e gerenciamento das URLs geradas, oferecendo uma interface intuitiva para usuários e administradores.
 
 ### Funcionalidades
